@@ -1,41 +1,44 @@
 ### Hi there 👋 
-### This is Fernando Roldán!
+### This is Elliot!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/elliotcs30)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elliot-chang-7a7224237/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elliotcs30@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page! I am Elliot and I am finished my Computer Science Master degree at the university of Cheng Shiu!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/493674011/android/sticker.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Finish my Computer Science Master Degree  
+- Taking online courses about the Website of AlphaCamp
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="10%" src="/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="/logos/javascript/javascript-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
+<code><img width="10%" src="/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="/logos/github/github-ar21.svg"></code>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<code><img width="10%" src="/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="/logos/mysql/mysql-ar21.svg"></code>
+
+<code><img width="10%" src="/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="10%" src="/logos/heroku/heroku-ar21.svg"></code>
+
+<code><img width="10%" src="/logos/vim/vim-ar21.svg"></code>
+<code><img width="10%" src="/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="10%" src="/logos/expressjs/expressjs-ar21.svg"></code>
+<code><img width="10%" src="/logos/handlebarsjs/handlebarsjs-ar21.svg"></code>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+</p>
