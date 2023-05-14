@@ -12,13 +12,13 @@ Welcome to my Github page! I am Elliot and I am finished my Computer Science Mas
 
 #### 🌱 Things I am currently working on:
 
-- Finish my Computer Science Master Degree
-- Taking online courses about the Website of AlphaCamp
+- Training Python and Django.
+- Taking online leet code discuss.
 
 #### :muscle: Things I am challenging myself with:
 
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+- Use Python create website.
 
 #### :computer: Programming languages and tools:
 
