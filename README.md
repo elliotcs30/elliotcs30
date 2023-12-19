@@ -1,60 +1,18 @@
-### Hi there 👋
+- 👋 Hi, I’m Elliot.
+- 👀 I’m an engineer.
+- 🌱 I’m currently learning full-stack.(HTML, CSS, JS, Node.js and MySQL)
+- 💞️ I’m passionate about websites and using my coding ability to improve the work environment.
+- 📫 How to reach me: [elliotcs30@gmail.com](mailto:elliotcs30@gmail.com) 
 
-### This is Elliot!
+<h3 align="left">Languages and Tools:</h3>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/elliotcs30)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elliot-chang-7a7224237/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elliotcs30@gmail.com)
-
-Welcome to my Github page! I am Elliot and I am finished my Computer Science Master degree at the university of Cheng Shiu!
-
-<img align="right" alt="img" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/493674011/android/sticker.png" width="50%" height="auto" />
-
-#### 🌱 Things I am currently working on:
-
-- Training Python and Django.
-- Taking online leet code discuss.
-
-#### :muscle: Things I am challenging myself with:
-
-- Waking up earlier to make good use of the day
-- Use Python create website.
-
-#### :computer: Programming languages and tools:
-
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Elliotcs30&theme=vue-dark&show_icons=true&hide_border=true" />
-
-Editor:
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-<br />
-
-Website:
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<br />
-
-Framework:
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg"></code>
-<br />
-
-Git:
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<br />
-
-DataBase:
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br />
-
-Server:
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<br />
-
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
+
+[![MIS's GitHub](https://github-readme-stats.vercel.app/api?username=MISCS30)](https://github.com/anuraghazra/github-readme-stats)
