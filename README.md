@@ -15,4 +15,4 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
-[![MIS's GitHub](https://github-readme-stats.vercel.app/api?username=MISCS30)](https://github.com/anuraghazra/github-readme-stats)
+[![MIS's GitHub](https://github-readme-stats.vercel.app/api?username=elliotcs30)](https://github.com/anuraghazra/github-readme-stats)
